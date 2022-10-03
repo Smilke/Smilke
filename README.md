@@ -1,7 +1,7 @@
 ### Hi there, i'm Erik Luan
  
   
-<div align="center">
+<div style="display:flex; justify-content: space-between;" >
   <a href="https://github.com/Smilke">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smilke&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smilke&layout=compact&theme=dark">
