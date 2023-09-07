@@ -32,8 +32,21 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
-#### 🚀 Atividade 
-<div style="display: flex; justify-content: space-between; width: 100%">
-  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Smilke&theme=tokyonight"> 
-  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smilke&theme=tokyonight"> 
-</div>
+  
+  #### 🚀 Atividade 
+  <div style="display: flex; justify-content: space-between; width: 100%">
+
+<img align="left" height="200" style="margin-left: 25px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smilke&theme=tokyonight"> 
+
+```diff
+                                    ,,         
+             __                   o-°°|\_____/)
+        (___()'`; farejando bugs   \_/|_)     )
+        /,    /`                      \  __  / 
+        \\"--\\                       (_/ (_/
+
+
+
+
+```
+
