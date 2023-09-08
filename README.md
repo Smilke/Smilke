@@ -6,7 +6,7 @@
 
 > tem hobbies demais, é introvertido;
 > conversa sobre tech e aleatoriedades;
-> apreciada livros;
+> aprecia livros;
 
 
 ! ‍desenvolvedor de mobile ionic
