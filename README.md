@@ -15,6 +15,8 @@
 ! estudante da UFCG
 ```
 
+[![An image of @smilkx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smilkx)](https://holopin.io/@smilkx)
+
 #### 🔗 Me encontre
 
 <a href="www.linkedin.com/in/erik-luan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
@@ -49,4 +51,3 @@
 
 
 ```
-
